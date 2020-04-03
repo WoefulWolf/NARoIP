@@ -11,7 +11,7 @@ This was made specifically with speedrunners in mind.
 ## Installation
 - Follow the same instructions as that of 2B Hook (https://www.nexusmods.com/nierautomata/mods/10) but using *NARoIP.dll* instead of *2B Hook.dll* <br>
 ##### OR
-- Inject *NARoIP.dll* into your *NieRAutomata.exe* process using an injector (I recommend https://github.com/DarthTon/xenos like 2B Hook)
+- Inject *NARoIP.dll* into your *NieRAutomata.exe* process using an injector (I recommend https://github.com/DarthTon/xenos)
 
 ## Hosting your own server
 - Port forward UDP port *11939*.
