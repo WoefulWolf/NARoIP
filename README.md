@@ -13,6 +13,8 @@ This was made specifically with speedrunners in mind.
 ##### OR
 - Inject *NARoIP.dll* into your *NieRAutomata.exe* process using an injector (I recommend https://github.com/DarthTon/xenos)
 
+- Open the menu in-game by pressing the default *INSERT* keybind.
+
 ## Hosting your own server
 - Port forward UDP port *11939*.
 - Run *NARoIP_Server.exe* (Windows), or *./NARoIP_Server* (Linux).
