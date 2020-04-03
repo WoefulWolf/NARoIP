@@ -21,6 +21,11 @@ This was made specifically with speedrunners in mind.
 ## Downloads
 https://github.com/WoefulWolf/NARoIP/releases
 
+## Credits
+- Amei
+- Mytherium
+- gbchan
+
 #### Why no source-code?
 Like stated above, this was built upon *mar7ymoose*'s 2B Hook which is not a public repository. <br>
 (And my code is really messy.)
