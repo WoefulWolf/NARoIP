@@ -24,6 +24,7 @@ This was made specifically with speedrunners in mind.
 https://github.com/WoefulWolf/NARoIP/releases
 
 ## Credits
+- mar7ymoose
 - Amei
 - Mytherium
 - gbchan
