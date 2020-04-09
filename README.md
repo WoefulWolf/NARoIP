@@ -24,11 +24,11 @@ https://github.com/WoefulWolf/NARoIP/releases
 - (Make sure a firewall isn't blocking anything.)
 
 ## Credits
-- mar7ymoose
-- Amei
-- Mytherium
-- gbchan
-- Kekoulis
+- mar7ymoose (2BHook)
+- Amei (Testing)
+- Mytherium (Testing)
+- gbchan (Testing)
+- Kekoulis (Testing)
 
 #### Why no source-code?
 Like stated above, this was built upon *mar7ymoose*'s 2B Hook which is not a public repository. <br>
