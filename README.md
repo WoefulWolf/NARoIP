@@ -8,6 +8,9 @@ Players on a server have their positions and names shared visually in the 3D gam
 The distance from your own player to other players is also displayed. <br>
 This was made specifically with speedrunners in mind.
 
+## Downloads
+https://github.com/WoefulWolf/NARoIP/releases
+
 ## Installation
 - Follow the same instructions as that of 2B Hook (https://www.nexusmods.com/nierautomata/mods/10) but using *NARoIP.dll* instead of *2B Hook.dll* <br>
 ##### OR
@@ -19,9 +22,6 @@ This was made specifically with speedrunners in mind.
 - Port forward UDP port *11939*.
 - Run *NARoIP_Server.exe* (Windows), or *./NARoIP_Server* (Linux).
 - (Make sure a firewall isn't blocking anything.)
-
-## Downloads
-https://github.com/WoefulWolf/NARoIP/releases
 
 ## Credits
 - mar7ymoose
