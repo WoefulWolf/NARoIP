@@ -1,6 +1,5 @@
 # NARoIP
 NieR:Automata Race over Internet Protocol - the *kinda* multiplayer mod? <br>
-Built upon *mar7ymoose*'s 2B Hook mod (https://www.nexusmods.com/nierautomata/mods/10).
 
 ## What is this?
 NARoIP is a mod which adds basic multiplayer-like synchronization between game clients. <br>
@@ -12,15 +11,13 @@ This was made specifically with speedrunners in mind.
 https://github.com/WoefulWolf/NARoIP/releases
 
 ## Installation
-- Follow the same instructions as that of 2B Hook (https://www.nexusmods.com/nierautomata/mods/10) but using *NARoIP.dll* instead of *2B Hook.dll* <br>
-##### OR
-- Inject *NARoIP.dll* into your *NieRAutomata.exe* process using an injector (I recommend https://github.com/DarthTon/xenos)
-
-- Open the menu in-game by pressing the default *INSERT* keybind.
+- Place the *xinput1_3.dll* file in your NieR:Automata directory (adjacent to your NieRAutomata.exe).
+- Launch the game.
+- Open the menu in-game by pressing the default *PAGE_UP* keybind.
 
 ## Hosting your own server
 - Port forward UDP port *11939*.
-- Run *NARoIP_Server.exe* (Windows), or *./NARoIP_Server* (Linux).
+- Run *NARoIP_Server.exe* (Windows), or *./NARoIP_Server.out* (Linux).
 - (Make sure a firewall isn't blocking anything.)
 
 ## Credits
@@ -29,7 +26,7 @@ https://github.com/WoefulWolf/NARoIP/releases
 - Mytherium (Testing)
 - gbchan (Testing)
 - Kekoulis (Testing)
+- rodg (Testing)
 
 #### Why no source-code?
-Like stated above, this was built upon *mar7ymoose*'s 2B Hook which is not a public repository. <br>
-(And my code is really messy.)
+This is the sort of private project that incorporates mods from other users, but if you personally ask, I really won't mind providing you with the source code.
