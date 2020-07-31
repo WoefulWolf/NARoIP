@@ -24,6 +24,7 @@ https://github.com/WoefulWolf/NARoIP/releases
 - (Make sure a firewall isn't blocking anything.)
 
 ## Credits
+- icefire (VC3Mod)
 - mar7ymoose (2BHook)
 - Amei (Testing)
 - Mytherium (Testing)
