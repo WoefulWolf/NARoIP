@@ -1,4 +1,4 @@
-# NARoIP
+# NARoIP (w/ VC3Mod)
 NieR:Automata Race over Internet Protocol - the *kinda* multiplayer mod? <br>
 
 ![Modifications](https://i.imgur.com/cLEBdyD.png)
@@ -23,6 +23,10 @@ https://github.com/WoefulWolf/NARoIP/releases
 - If running Linux server, you will require the ENet package (For [Debian, Ubuntu, etc.](https://packages.ubuntu.com/eoan/libenet7) or [Arch, etc.](https://www.archlinux.org/packages/community/x86_64/enet/)).
 - Run *NARoIP_Server.exe* (Windows), or *./NARoIP_Server.out* (Linux).
 - (Make sure a firewall isn't blocking anything.)
+
+## Help!
+### Cannot run linux server! ("Permission denied", "command not found", "cannot execute binary file")
+- Try marking the file as an executeable with: `chmod +x NARoIP_Server.out`
 
 ## Credits
 - icefire (VC3Mod)
