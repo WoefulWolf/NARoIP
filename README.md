@@ -20,6 +20,7 @@ https://github.com/WoefulWolf/NARoIP/releases
 
 ## Hosting your own server
 - Port forward UDP port *11939*.
+- If running Linux server, you will require the ENet package (For [Debian, Ubuntu, etc.](https://packages.ubuntu.com/eoan/libenet7) or [Arch, etc.](https://www.archlinux.org/packages/community/x86_64/enet/)).
 - Run *NARoIP_Server.exe* (Windows), or *./NARoIP_Server.out* (Linux).
 - (Make sure a firewall isn't blocking anything.)
 
