@@ -7,7 +7,10 @@ NieR:Automata Race over Internet Protocol - the *kinda* multiplayer mod? <br>
 NARoIP is a mod which adds basic multiplayer-like synchronization between game clients. <br>
 Players on a server have their positions and names shared visually in the 3D game-world. <br>
 The distance from your own player to other players is also displayed. <br>
-This was made specifically with speedrunners in mind.
+This was made specifically with speedrunners in mind. <br>
+
+Ghost racing has also now been implemented, allowing users to record and save *.ghost* files! <br>
+These files can easily be shared among users and used for practice during playback. 
 
 ## Downloads
 https://github.com/WoefulWolf/NARoIP/releases
