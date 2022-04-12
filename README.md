@@ -1,4 +1,4 @@
-# STOPPED DEVELOPMENT
+# STOPPED DEVELOPMENT/DOESN'T WORK ON NEW PATCH
 # NARoIP (w/ VC3Mod)
 NieR:Automata Race over Internet Protocol - the *kinda* multiplayer mod? <br>
 
