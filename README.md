@@ -1,4 +1,5 @@
 # STOPPED DEVELOPMENT/DOESN'T WORK ON NEW PATCH
+# NOW USE https://github.com/WoefulWolf/kajiki-mod
 # NARoIP (w/ VC3Mod)
 NieR:Automata Race over Internet Protocol - the *kinda* multiplayer mod? <br>
 
